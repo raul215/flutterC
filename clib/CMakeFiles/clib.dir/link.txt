@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libclib.so.1 -o libclib.so.1.0.0 CMakeFiles/clib.dir/random_number.c.o 

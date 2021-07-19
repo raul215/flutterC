@@ -1,0 +1,3 @@
+LIBRARY   random_number
+EXPORTS
+   fetch_number

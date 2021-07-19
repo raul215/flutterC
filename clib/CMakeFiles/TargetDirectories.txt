@@ -1,0 +1,4 @@
+/home/rahul/FlutterProj/Cinterop/test/clib/CMakeFiles/rebuild_cache.dir
+/home/rahul/FlutterProj/Cinterop/test/clib/CMakeFiles/edit_cache.dir
+/home/rahul/FlutterProj/Cinterop/test/clib/CMakeFiles/randomnumber.dir
+/home/rahul/FlutterProj/Cinterop/test/clib/CMakeFiles/clib.dir

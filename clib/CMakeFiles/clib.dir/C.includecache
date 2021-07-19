@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rahul/FlutterProj/Cinterop/test/clib/randomNumber.h
+
+/home/rahul/FlutterProj/Cinterop/test/clib/random_number.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+randomNumber.h
+/home/rahul/FlutterProj/Cinterop/test/clib/randomNumber.h
+
